@@ -1,4 +1,1 @@
-"# Project" 
-"# project" 
-"# openshot.ai" 
-"# openshot.ai" 
+"# Openshot.ai" 
